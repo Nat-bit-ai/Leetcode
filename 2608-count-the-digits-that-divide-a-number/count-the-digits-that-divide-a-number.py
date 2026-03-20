@@ -3,7 +3,6 @@ class Solution:
         count = 0
         for val in str(num):
             val = int(val)
-            num = int(num)
             if num % val == 0:
                 count += 1
             else:
