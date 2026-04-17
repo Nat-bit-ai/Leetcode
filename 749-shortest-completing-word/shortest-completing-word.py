@@ -1,13 +1,26 @@
-from collections import Counter
 class Solution:
     def shortestCompletingWord(self, licensePlate: str, words: List[str]) -> str:
-        need = Counter(c.lower() for c in licensePlate if c.isalpha())    
-        result = None
-        for word in words:
-            count = Counter(word.lower())
-            if all(count[c] >= need[c] for c in need):
-                if result is None or len(word) < len(result):
-                    result = word
-        return result
+        
+        valid = []
+        
+        for i in words:
+            ok = True
+            
+            for j in licensePlate:
+                if j.isalpha():
+                    if i.lower().count(j.lower()) < licensePlate.lower().count(j.lower()):
+                        ok = False
+                        break
+            
+            if ok:
+                valid.append(i)
+        
+        # find shortest
+        z = valid[0]
+        for i in range(1, len(valid)):
+            if len(valid[i]) < len(z):
+                z = valid[i]
+        
+        return z
                 
                 
