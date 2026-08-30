@@ -19,6 +19,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -53,4 +55,12 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
