@@ -1,5 +1,11 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        for i in t:
-            if i not in s or t.count(i) != s.count(i):
-                return i
+        freq = {}
+
+        for char in s:
+            freq[char] = freq.get(char, 0) + 1
+        for char in t:
+            freq[char] = freq.get(char, 0) - 1
+        for char in freq:
+            if freq[char] != 0:
+                return char
