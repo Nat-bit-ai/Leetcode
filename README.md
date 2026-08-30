@@ -20,12 +20,14 @@
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,10 +40,12 @@
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -63,4 +67,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
