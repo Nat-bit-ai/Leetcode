@@ -23,6 +23,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -44,4 +46,9 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
