@@ -82,8 +82,13 @@
 | ------- |
 | [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
