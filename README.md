@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Nat-bit-ai/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0263-ugly-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Nat-bit-ai/Leetcode/tree/master/0441-arranging-coins) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Nat-bit-ai/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Simulation
 |  |
 | ------- |
