@@ -85,6 +85,7 @@
 | [0263-ugly-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Nat-bit-ai/Leetcode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0507-perfect-number) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Nat-bit-ai/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Simulation
 |  |
