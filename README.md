@@ -56,11 +56,13 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Nat-bit-ai/Leetcode/tree/master/0645-set-mismatch) |
 ## Greedy
@@ -75,4 +77,12 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
