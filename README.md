@@ -83,6 +83,7 @@
 | [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Nat-bit-ai/Leetcode/tree/master/0441-arranging-coins) |
 ## Simulation
 |  |
 | ------- |
@@ -91,4 +92,5 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Nat-bit-ai/Leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
