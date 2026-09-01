@@ -22,6 +22,7 @@
 | [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Nat-bit-ai/Leetcode/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/Nat-bit-ai/Leetcode/tree/master/0888-fair-candy-swap) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Nat-bit-ai/Leetcode/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/Nat-bit-ai/Leetcode/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Nat-bit-ai/Leetcode/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/Nat-bit-ai/Leetcode/tree/master/0888-fair-candy-swap) |
 ## Counting
 |  |
 | ------- |
@@ -96,4 +99,5 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Nat-bit-ai/Leetcode/tree/master/0441-arranging-coins) |
+| [0888-fair-candy-swap](https://github.com/Nat-bit-ai/Leetcode/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
