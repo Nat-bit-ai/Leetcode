@@ -7,5 +7,5 @@ class Solution:
         
         for x in aliceSizes:
             y = x - diff
-            if y in bobSet:
+            if y in bobSizes:
                 return [x, y]
