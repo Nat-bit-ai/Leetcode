@@ -8,6 +8,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 | [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Nat-bit-ai/Leetcode/tree/master/0441-arranging-coins) |
 | [0888-fair-candy-swap](https://github.com/Nat-bit-ai/Leetcode/tree/master/0888-fair-candy-swap) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
