@@ -60,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
@@ -105,4 +106,12 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
