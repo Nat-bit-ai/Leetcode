@@ -62,6 +62,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/Nat-bit-ai/Leetcode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/Nat-bit-ai/Leetcode/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
