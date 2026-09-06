@@ -12,6 +12,7 @@
 | [0206-reverse-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nat-bit-ai/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Nat-bit-ai/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0507-perfect-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nat-bit-ai/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Nat-bit-ai/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Simulation
 |  |
