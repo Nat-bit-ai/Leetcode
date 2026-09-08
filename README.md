@@ -28,6 +28,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Nat-bit-ai/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Nat-bit-ai/Leetcode/tree/master/0888-fair-candy-swap) |
+| [1598-crawler-log-folder](https://github.com/Nat-bit-ai/Leetcode/tree/master/1598-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0091-decode-ways](https://github.com/Nat-bit-ai/Leetcode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
+| [1598-crawler-log-folder](https://github.com/Nat-bit-ai/Leetcode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Nat-bit-ai/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
@@ -122,6 +124,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Nat-bit-ai/Leetcode/tree/master/0071-simplify-path) |
+| [1598-crawler-log-folder](https://github.com/Nat-bit-ai/Leetcode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Nat-bit-ai/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
