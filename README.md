@@ -119,6 +119,7 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/Nat-bit-ai/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Stack
 |  |
 | ------- |
@@ -145,4 +146,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nat-bit-ai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nat-bit-ai/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Nat-bit-ai/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Nat-bit-ai/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
