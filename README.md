@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Nat-bit-ai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nat-bit-ai/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
@@ -47,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Nat-bit-ai/Leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Nat-bit-ai/Leetcode/tree/master/0091-decode-ways) |
