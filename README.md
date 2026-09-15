@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nat-bit-ai/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Nat-bit-ai/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nat-bit-ai/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nat-bit-ai/Leetcode/tree/master/0058-length-of-last-word) |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nat-bit-ai/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
