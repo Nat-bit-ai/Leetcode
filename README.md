@@ -80,6 +80,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Nat-bit-ai/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Nat-bit-ai/Leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Nat-bit-ai/Leetcode/tree/master/0091-decode-ways) |
