@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nat-bit-ai/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0414-third-maximum-number) |
@@ -33,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nat-bit-ai/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Nat-bit-ai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nat-bit-ai/Leetcode/tree/master/0142-linked-list-cycle-ii) |
