@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/Nat-bit-ai/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -41,6 +42,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Nat-bit-ai/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Nat-bit-ai/Leetcode/tree/master/0645-set-mismatch) |
@@ -49,12 +51,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nat-bit-ai/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Nat-bit-ai/Leetcode/tree/master/0561-array-partition) |
@@ -65,6 +69,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nat-bit-ai/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -178,4 +183,16 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nat-bit-ai/Leetcode/tree/master/0100-same-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
