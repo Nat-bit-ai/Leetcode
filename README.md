@@ -31,6 +31,7 @@
 | [0645-set-mismatch](https://github.com/Nat-bit-ai/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Nat-bit-ai/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1598-crawler-log-folder](https://github.com/Nat-bit-ai/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1929-concatenation-of-array](https://github.com/Nat-bit-ai/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nat-bit-ai/Leetcode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/Nat-bit-ai/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Nat-bit-ai/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
