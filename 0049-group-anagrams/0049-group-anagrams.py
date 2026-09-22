@@ -1,13 +1,8 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        map = {}
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        anagram_map = defaultdict(list)
+        for s in strs:
+            key = "".join(sorted(s))
+            anagram_map[key].append(s)
 
-        for str in strs:
-            key = ''.join(sorted(str))
-
-            if key not in map:
-                map[key] = []
-
-            map[key].append(str)
-
-        return list(map.values())
+        return list(anagram_map.values())
