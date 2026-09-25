@@ -94,6 +94,7 @@
 | [0091-decode-ways](https://github.com/Nat-bit-ai/Leetcode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0392-is-subsequence) |
 | [1598-crawler-log-folder](https://github.com/Nat-bit-ai/Leetcode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Nat-bit-ai/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Nat-bit-ai/Leetcode/tree/master/0091-decode-ways) |
+| [0392-is-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Nat-bit-ai/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nat-bit-ai/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
