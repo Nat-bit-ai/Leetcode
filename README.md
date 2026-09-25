@@ -10,6 +10,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Nat-bit-ai/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nat-bit-ai/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -19,6 +20,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Nat-bit-ai/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nat-bit-ai/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nat-bit-ai/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Nat-bit-ai/Leetcode/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1598-crawler-log-folder](https://github.com/Nat-bit-ai/Leetcode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Nat-bit-ai/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
@@ -156,6 +159,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nat-bit-ai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nat-bit-ai/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nat-bit-ai/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
