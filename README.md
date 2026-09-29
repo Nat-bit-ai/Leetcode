@@ -98,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/Nat-bit-ai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Nat-bit-ai/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Nat-bit-ai/Leetcode/tree/master/0392-is-subsequence) |
+| [1154-day-of-the-year](https://github.com/Nat-bit-ai/Leetcode/tree/master/1154-day-of-the-year) |
 | [1598-crawler-log-folder](https://github.com/Nat-bit-ai/Leetcode/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Nat-bit-ai/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
@@ -127,6 +128,7 @@
 | [0367-valid-perfect-square](https://github.com/Nat-bit-ai/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Nat-bit-ai/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Nat-bit-ai/Leetcode/tree/master/0507-perfect-number) |
+| [1154-day-of-the-year](https://github.com/Nat-bit-ai/Leetcode/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nat-bit-ai/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Nat-bit-ai/Leetcode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Simulation
